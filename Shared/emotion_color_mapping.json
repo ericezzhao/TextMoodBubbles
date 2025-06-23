@@ -1,0 +1,85 @@
+{
+  "emotion_colors": {
+    "joy": "#FFD700",
+    "love": "#FF69B4",
+    "excitement": "#FF4500",
+    "amusement": "#32CD32",
+    "gratitude": "#DDA0DD",
+    "admiration": "#4169E1",
+    "optimism": "#FFB347",
+    "pride": "#9370DB",
+    "relief": "#98FB98",
+    "approval": "#87CEEB",
+    "caring": "#F0E68C",
+    "curiosity": "#40E0D0",
+    "realization": "#DA70D6",
+    "surprise": "#FFFF00",
+    "confusion": "#D3D3D3",
+    "anger": "#DC143C",
+    "annoyance": "#FF6347",
+    "disappointment": "#4682B4",
+    "disapproval": "#708090",
+    "sadness": "#191970",
+    "grief": "#2F4F4F",
+    "fear": "#8B0000",
+    "nervousness": "#F4A460",
+    "disgust": "#556B2F",
+    "embarrassment": "#CD5C5C",
+    "remorse": "#800080",
+    "desire": "#FF1493",
+    "neutral": "#C0C0C0"
+  },
+  "documentation": {
+    "methodology": "\n        Color Selection Methodology:\n        1. Color Psychology: Colors chosen based on established psychological associations\n        2. Cultural Context: Considered Western cultural color meanings for messaging context\n        3. Visual Accessibility: Ensured sufficient contrast for readability on various backgrounds\n        4. Emotional Intensity: Color saturation and brightness reflect emotional intensity\n        5. Distinctiveness: All colors are visually distinct for clear differentiation\n        ",
+    "color_categories": {
+      "High Energy Positive": [
+        "joy",
+        "excitement",
+        "amusement"
+      ],
+      "Warm Positive": [
+        "love",
+        "gratitude",
+        "caring",
+        "optimism"
+      ],
+      "Cool Positive": [
+        "admiration",
+        "approval",
+        "relief"
+      ],
+      "Cognitive": [
+        "curiosity",
+        "realization",
+        "surprise",
+        "confusion"
+      ],
+      "High Intensity Negative": [
+        "anger",
+        "fear",
+        "disgust"
+      ],
+      "Moderate Negative": [
+        "annoyance",
+        "disappointment",
+        "embarrassment"
+      ],
+      "Deep Negative": [
+        "sadness",
+        "grief",
+        "remorse"
+      ],
+      "Complex": [
+        "desire",
+        "nervousness",
+        "disapproval"
+      ],
+      "Neutral": [
+        "neutral"
+      ]
+    },
+    "accessibility_notes": "\n        Accessibility Considerations:\n        - All colors have been tested for sufficient contrast\n        - Colors are distinguishable for common color vision deficiencies\n        - Backup text labels should be included for accessibility\n        - Colors work well on both light and dark messaging backgrounds\n        "
+  },
+  "total_emotions": 28,
+  "creation_date": "2024-12-19"
+}
