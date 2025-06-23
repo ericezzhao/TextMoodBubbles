@@ -1,4 +1,4 @@
-# 🍎 Text Reponsive Emotion Sticker - iOS iMessage Extension
+# 🍎 TextMoodBubbles - iOS iMessage Extension
 
 Goemotions blog: https://research.google/blog/goemotions-a-dataset-for-fine-grained-emotion-classification/
 
