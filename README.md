@@ -2,7 +2,7 @@
 
 Goemotions blog: https://research.google/blog/goemotions-a-dataset-for-fine-grained-emotion-classification/
 
-iOS iMessage extension that automatically detects emotions bsaed on the text and creates a colored text bubbles based on the emotional content. Model is trained on the GoEmotion dataset consisting of 28 emotions.
+TextMoodBubbles is an iOS iMessage extension that automatically detects emotions bsaed on the text and creates a colored text bubbles based on the emotional content. The model is trained on the GoEmotion dataset consisting of 28 emotions.
 
 ## Demo
 
