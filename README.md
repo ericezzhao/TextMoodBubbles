@@ -23,7 +23,7 @@ TextMoodBubbles is an iOS iMessage extension that automatically detects emotions
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/ericezzhao/TextMoodBubbles.git
    cd emotion-text-bubble
    ```
 
